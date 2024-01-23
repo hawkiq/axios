@@ -1,0 +1,29 @@
+{
+    "name": "hawkiq/axios",
+    "description": "Promise based HTTP client for the browser and node.js",
+    "type": "component",
+    "homepage": "https://axios-http.com",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/axios/axios/issues",
+        "wiki": "https://axios-http.com/docs/intro/",
+        "source": "https://github.com/axios/axios"
+    },
+    "authors": [
+        {
+            "name": "JS Foundation and other contributors",
+            "url": "https://github.com/axios/axios/graphs/contributors"
+        }
+    ],
+    "extra": {
+        "component": {
+            "scripts": [
+                "axios.js"
+            ],
+            "files": [
+                "axios.min.js",
+                "axios.min.map"
+            ]
+        }
+    }
+}
